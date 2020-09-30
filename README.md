@@ -2,7 +2,7 @@
 
 Yet another WebAssembly demo.
  
-![](2048.png)
+![](2048.gif)
 # Build & Run 
 
 ```
