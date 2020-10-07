@@ -88,7 +88,7 @@ func genRandValue() int {
 	totalWeight := 100
 	randNum := rand.Intn(totalWeight)
 
-	// Weight 4 = 25
+	// Weight 4 = 35
 	// Weight 2 = 65
 	idx := 0
 	if randNum < 35 {
